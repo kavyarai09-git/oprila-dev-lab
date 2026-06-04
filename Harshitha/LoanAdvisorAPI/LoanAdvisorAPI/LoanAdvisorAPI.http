@@ -1,6 +1,0 @@
-@LoanAdvisorAPI_HostAddress = http://localhost:5188
-
-GET {{LoanAdvisorAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

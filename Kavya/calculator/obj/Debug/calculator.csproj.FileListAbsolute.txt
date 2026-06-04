@@ -1,0 +1,13 @@
+C:\Users\k5529\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\k5529\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\k5529\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\k5529\source\repos\calculator\calculator\bin\Debug\System.Data.SQLite.dll
+C:\Users\k5529\source\repos\calculator\calculator\bin\Debug\System.Data.SQLite.xml
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.csproj.Up2Date
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\k5529\source\repos\calculator\calculator\obj\Debug\calculator.pdb
